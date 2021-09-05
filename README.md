@@ -6,6 +6,6 @@ A minimalistic animated Food App.
 
 This project is a food delivery application for an individual food shop, built on Flutter application.
 
-The target sdk is SDK 23. 
+Android target sdk is SDK 30. 
 
 Best of luck!
