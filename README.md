@@ -1,8 +1,7 @@
-# hmk_test
+# HMK Test
+# Food Delivery Application
 
 A minimalistic animated Food App.
-
-## Food Delivery Application
 
 This project is a food delivery application for an individual food shop, built on Flutter application.
 
